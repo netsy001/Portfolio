@@ -9,5 +9,6 @@
     font-weight: bold;  
 }
 #content {
-    background-image: url("C:\Users\Lenovo\Portfolio\assets\coding.jpg");
+    background-image: url("assets/background.png");
+    background-repeat: no-repeat;
 }
