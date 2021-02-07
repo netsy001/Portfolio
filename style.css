@@ -2,13 +2,44 @@
     background-color: orange;
     text-align: right;
     padding: 1%;
-    text-shadow: black;
     font-size: larger;
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;  
+    
 }
-#content {
-    background-image: url("assets/background.png");
+.content {
+    /* background-image: url("assets/1.jpg"); */
+    background:wheat;
     background-repeat: no-repeat;
+    backface-visibility: visible;
+    background-size: 100%;
+    
+
+}
+.bio {
+    padding: 1%;  
+}
+.name {
+  float: left;
+  text-align: right;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;    
+}
+.Resume {
+    font-size: inherit;
+    font-weight: bold;
+    text-decoration-color: red;
+}
+.recentProjects {
+    padding: 1%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.image  {
+    height: 250px;
+    width: 250px;
 }
