@@ -1,0 +1,13 @@
+.Navbar {
+    background-color: orange;
+    text-align: right;
+    padding: 1%;
+    text-shadow: black;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;  
+}
+#content {
+    background-image: url("C:\Users\Lenovo\Portfolio\assets\coding.jpg");
+}
