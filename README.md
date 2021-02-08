@@ -61,7 +61,6 @@ Updated Portfolio:
 ![Portfolio](assets/Capturegithub.PNG)
 ![Portfolio](assets/CaptureLinkden.PNG)
 ![Portfolio](assets/CaptureResume.PNG)
-![Portfolio](assets/responsive.mp4)
 
 
 Execution: Open in browser
