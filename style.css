@@ -1,5 +1,6 @@
 .Navbar {
     background-color: orange;
+    /* background-image: url("assets/bgpic.jpg"); */
     text-align: right;
     padding: 1%;
     font-size: larger;
@@ -9,8 +10,8 @@
     
 }
 .content {
-    /* background-image: url("assets/1.jpg"); */
-    background:wheat;
+    background-image: url("assets/images.png");
+    /* background:wheat; */
     background-repeat: no-repeat;
     backface-visibility: visible;
     background-size: 100%;
@@ -27,6 +28,7 @@
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    color: blue;
 }
 .Resume {
     font-size: inherit;
@@ -38,8 +40,19 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    color: blue;
 }
 .image  {
     height: 250px;
     width: 250px;
+}
+.info {
+    padding: 1%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+   
+
 }
